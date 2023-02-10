@@ -1,0 +1,5 @@
+'\nProsta aplikacja do tworzenia rejestru ksiazek w domowej biblioteczce/ ver. 1.0\n'
+'\nTworzy baze danych SQL i wypelnia ja pustymi tabelami, polaczonymi kluczami w strukture\n    umozliwiajaca poruszanie sie pomiedzy jej elementami\n'
+'\nKlasa umozliwiajaca przypisanie i wydobycie imion i nazwisk autorow\n'
+'\nFunkcja wykonujaca operacje wpisania danego autora do bazy danych\n'
+'\nFunkcja do sprawdzania numeru identyfikacyjnego autora, nadanego automatycznie przez baze SQL\n'
